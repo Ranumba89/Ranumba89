@@ -1,5 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning React but more specifically the context provider
+- 📫 How to reach me: rugoanumba@gmail.com
 <!--
 **Ranumba89/Ranumba89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
