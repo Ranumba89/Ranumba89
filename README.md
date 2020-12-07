@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning React but more specifically the context provider
 <!--
 **Ranumba89/Ranumba89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
